@@ -16,7 +16,8 @@ def img2text(url):
     return text
 
 
-img2text("photo_2023-07-14_17-38-34.jpg")
+# insert your image here
+img2text("myimage.png")
 
 # largelanguageModel (llm)
 

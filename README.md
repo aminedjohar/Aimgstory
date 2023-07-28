@@ -1,4 +1,5 @@
-# aimgstory
+# Aimgstory
+
 Turn image to audio story(Upload image and let AI tells a story about it ).
 
 after cloning the repo you must install:
